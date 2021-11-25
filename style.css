@@ -1,0 +1,5 @@
+
+<!--Muda estilo de background gradiente nas páginas-->
+.background{
+      background-image: linear-gradient(to right top, #00ffde, #00daed, #00b1f1, #0086e1, #2b57b9);
+}
